@@ -1,1 +1,1 @@
-# templates
+Scripts, resources, and etc..
